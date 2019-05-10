@@ -1,0 +1,22 @@
+{
+  "name": "cs-go-autoreplayrecorder",
+  "version": "0.0.1",
+  "description": "CS:GO Auto Highlight-replay record system",
+  "main": "app.js",
+  "scripts": {
+    "test": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlowingSPDG/CS-GO-AutoReplayRecorder.git"
+  },
+  "author": "Shugo \"FlowingSPDG\" Kawamura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlowingSPDG/CS-GO-AutoReplayRecorder/issues"
+  },
+  "homepage": "https://github.com/FlowingSPDG/CS-GO-AutoReplayRecorder#readme",
+  "devDependencies": {
+    "@types/node": "^12.0.0"
+  }
+}
