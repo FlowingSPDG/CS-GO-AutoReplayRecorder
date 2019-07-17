@@ -4,7 +4,7 @@ const config = require("../config")
 const client_live = new mirvpgl(config.hlae_server_port_live, config.hlae_server_path_live); 
 const client_gotv = new mirvpgl(config.hlae_server_port_gotv, config.hlae_server_path_gotv); 
 
-const kill_delay = config.gotv_delay - config.killtime_before;
+const kill_delay = config.gotv_delay - config.replay_rec_start_before_kill;
 /*
 const CSGOGSI = require("node-csgo-gsi");
 let gsi = new CSGOGSI({
