@@ -1,6 +1,6 @@
 module.exports = {
     gsi_auth : "SuperAuth", // GSI Auth token
-    gotv_delay : 20 , // Delay between live-server and GOTV match,tv_delay - ライブ試合鯖からのGOTV遅延 tv_delay
+    tv_delay : 20 , // Delay between live-server and GOTV match,tv_delay - ライブ試合鯖からのGOTV遅延 tv_delay
     hlae_server_port_live: 31337, // mirv_pgl server port - mirv_pglサーバーのポート番号
     hlae_server_path_live: "/replay_live", // mirv_pgl server path for live - mirv_pglサーバーのパス
     hlae_server_port_gotv: 31338, // mirv_pgl server port - mirv_pglサーバーのポート番号
