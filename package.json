@@ -25,6 +25,6 @@
     "big-integer": "^1.6.44",
     "node-csgo-gsi": "0.0.4",
     "vmix-js-utils": "^2.0.1",
-    "ws": "^7.1.0"
+    "ws": "^7.4.6"
   }
 }
