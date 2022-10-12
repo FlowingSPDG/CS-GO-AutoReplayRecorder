@@ -24,7 +24,7 @@
     "@types/ws": "^6.0.1",
     "big-integer": "^1.6.44",
     "node-csgo-gsi": "0.0.4",
-    "vmix-js-utils": "^2.0.1",
+    "vmix-js-utils": "^4.0.16",
     "ws": "^7.1.0"
   }
 }
